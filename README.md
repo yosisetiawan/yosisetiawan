@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a Frontend Developer passionate about Web Deve
 ## Projects
 
 Here are some highlights of my projects:
-Soon i will update my highlight projects 
+Soon I will update my highlighted projects.
 
 ## Skills
 
@@ -20,8 +20,7 @@ Soon i will update my highlight projects
 
 ## Blog
 
-I enjoy sharing my knowledge and insights through my personal blog. Here are some of my recent blog posts:
-in this will to soon i will create my current personal blog and post my activity in there
+In the future, I will create my personal blog and post my activities there.
 
 ## Get in Touch
 
