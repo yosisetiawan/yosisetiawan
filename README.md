@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a Frontend Developer passionate about Web Deve
 
 ## About Me
 
-- 🌱 I’m constantly learning Javascript and Typescript
+- 🌱 I’m constantly learning Javascript, Typescript, React and Vue
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/antonio-yosie-setiawan/)
 - 😄 Pronouns: He or Him
 
